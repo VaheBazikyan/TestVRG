@@ -250,73 +250,13 @@
             filePath = "TestVRGSoft/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
             landmarkName = "ViewController"
             landmarkType = "3">
             <Locations>
                <Location
-                  uuid = "444D1FA5-F1D6-4362-9C41-9D7D0B4EC52C - d460fac14a0fb3d8"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "TestVRGSoft.ViewController.(apiClient in _DAB7ABC9FB76AD5206AEC5CAAA1F19E7).getter : TestVRGSoft.APIClien&lt;TestVRGSoft.ResponseModel&gt;"
-                  moduleName = "TestVRGSoft"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "34"
-                  endingLineNumber = "34"
-                  offsetFromSymbolStart = "16">
-               </Location>
-               <Location
-                  uuid = "444D1FA5-F1D6-4362-9C41-9D7D0B4EC52C - 28a45060b7652e8c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "TestVRGSoft.ViewController.(apiClient in _DAB7ABC9FB76AD5206AEC5CAAA1F19E7).setter : TestVRGSoft.APIClien&lt;TestVRGSoft.ResponseModel&gt;"
-                  moduleName = "TestVRGSoft"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "34"
-                  endingLineNumber = "34"
-                  offsetFromSymbolStart = "16">
-               </Location>
-               <Location
-                  uuid = "444D1FA5-F1D6-4362-9C41-9D7D0B4EC52C - bc0d13e692e4e625"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "TestVRGSoft.ViewController.(apiClient in _DAB7ABC9FB76AD5206AEC5CAAA1F19E7).modify : TestVRGSoft.APIClien&lt;TestVRGSoft.ResponseModel&gt;"
-                  moduleName = "TestVRGSoft"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "12">
-               </Location>
-               <Location
-                  uuid = "444D1FA5-F1D6-4362-9C41-9D7D0B4EC52C - 469b21825fa09e77"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "TestVRGSoft.ViewController.(apiClient in _DAB7ABC9FB76AD5206AEC5CAAA1F19E7).modify : TestVRGSoft.APIClien&lt;TestVRGSoft.ResponseModel&gt; with unmangled suffix &quot;.resume.0&quot;"
-                  moduleName = "TestVRGSoft"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "34"
-                  endingLineNumber = "34"
-                  offsetFromSymbolStart = "4">
-               </Location>
-               <Location
-                  uuid = "444D1FA5-F1D6-4362-9C41-9D7D0B4EC52C - d3f0321f1ec7f095"
+                  uuid = "444D1FA5-F1D6-4362-9C41-9D7D0B4EC52C - d3f0321f1ec7f0f0"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -326,12 +266,12 @@
                   urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "34"
-                  endingLineNumber = "34"
-                  offsetFromSymbolStart = "1378">
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1427">
                </Location>
                <Location
-                  uuid = "444D1FA5-F1D6-4362-9C41-9D7D0B4EC52C - b965f4016f294d0"
+                  uuid = "444D1FA5-F1D6-4362-9C41-9D7D0B4EC52C - b965f4016f294b5"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -341,9 +281,9 @@
                   urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "34"
-                  endingLineNumber = "34"
-                  offsetFromSymbolStart = "1313">
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1362">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -358,13 +298,13 @@
             filePath = "TestVRGSoft/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
             landmarkName = "model"
             landmarkType = "24">
             <Locations>
                <Location
-                  uuid = "871D9CF1-5A8E-4031-A8BA-ED6724B95ECD - ae4278f98d872811"
+                  uuid = "871D9CF1-5A8E-4031-A8BA-ED6724B95ECD - ae4278f98d872836"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -374,12 +314,12 @@
                   urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "36"
-                  endingLineNumber = "36"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
                   offsetFromSymbolStart = "122">
                </Location>
                <Location
-                  uuid = "871D9CF1-5A8E-4031-A8BA-ED6724B95ECD - db8b7f1980b9e805"
+                  uuid = "871D9CF1-5A8E-4031-A8BA-ED6724B95ECD - db8b7f1980b9e822"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -389,8 +329,8 @@
                   urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "36"
-                  endingLineNumber = "36"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
                   offsetFromSymbolStart = "159">
                </Location>
                <Location
@@ -409,7 +349,7 @@
                   offsetFromSymbolStart = "22">
                </Location>
                <Location
-                  uuid = "871D9CF1-5A8E-4031-A8BA-ED6724B95ECD - a06538876666e3fb"
+                  uuid = "871D9CF1-5A8E-4031-A8BA-ED6724B95ECD - a06538876666e3dc"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -419,12 +359,12 @@
                   urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "36"
-                  endingLineNumber = "36"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
                   offsetFromSymbolStart = "10">
                </Location>
                <Location
-                  uuid = "871D9CF1-5A8E-4031-A8BA-ED6724B95ECD - d3f0321f1ec7f0d7"
+                  uuid = "871D9CF1-5A8E-4031-A8BA-ED6724B95ECD - d3f0321f1ec7f0f0"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -434,12 +374,12 @@
                   urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "36"
-                  endingLineNumber = "36"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
                   offsetFromSymbolStart = "1427">
                </Location>
                <Location
-                  uuid = "871D9CF1-5A8E-4031-A8BA-ED6724B95ECD - b965f4016f29492"
+                  uuid = "871D9CF1-5A8E-4031-A8BA-ED6724B95ECD - b965f4016f294b5"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -449,8 +389,8 @@
                   urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "36"
-                  endingLineNumber = "36"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
                   offsetFromSymbolStart = "1362">
                </Location>
             </Locations>
@@ -466,13 +406,13 @@
             filePath = "TestVRGSoft/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "43"
-            endingLineNumber = "43"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
             landmarkName = "ViewController"
             landmarkType = "3">
             <Locations>
                <Location
-                  uuid = "15950539-0F9B-4172-8E27-9A7634A519BD - ca11b418546b0f21"
+                  uuid = "15950539-0F9B-4172-8E27-9A7634A519BD - ca11b418546b0f40"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -482,12 +422,12 @@
                   urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "43"
-                  endingLineNumber = "43"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
                   offsetFromSymbolStart = "56">
                </Location>
                <Location
-                  uuid = "15950539-0F9B-4172-8E27-9A7634A519BD - d3f0321f1ec7f1ae"
+                  uuid = "15950539-0F9B-4172-8E27-9A7634A519BD - d3f0321f1ec7f1cf"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -497,12 +437,12 @@
                   urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "43"
-                  endingLineNumber = "43"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
                   offsetFromSymbolStart = "1559">
                </Location>
                <Location
-                  uuid = "15950539-0F9B-4172-8E27-9A7634A519BD - b965f4016f295eb"
+                  uuid = "15950539-0F9B-4172-8E27-9A7634A519BD - b965f4016f2958a"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -512,8 +452,8 @@
                   urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "43"
-                  endingLineNumber = "43"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
                   offsetFromSymbolStart = "1494">
                </Location>
             </Locations>
@@ -529,8 +469,8 @@
             filePath = "TestVRGSoft/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "47"
-            endingLineNumber = "47"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -545,8 +485,8 @@
             filePath = "TestVRGSoft/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
             landmarkName = "fetch(path:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -561,8 +501,8 @@
             filePath = "TestVRGSoft/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "61"
-            endingLineNumber = "61"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
             landmarkName = "showTutorial(_url:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -577,8 +517,8 @@
             filePath = "TestVRGSoft/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "89"
-            endingLineNumber = "89"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
             landmarkName = "tabBar(_:didSelect:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -593,8 +533,8 @@
             filePath = "TestVRGSoft/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "106"
-            endingLineNumber = "106"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
             landmarkName = "tableView(_:didSelectRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -609,8 +549,8 @@
             filePath = "TestVRGSoft/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "113"
-            endingLineNumber = "113"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
             landmarkName = "tableView(_:numberOfRowsInSection:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -625,8 +565,8 @@
             filePath = "TestVRGSoft/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "117"
-            endingLineNumber = "117"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -641,8 +581,8 @@
             filePath = "TestVRGSoft/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "122"
-            endingLineNumber = "122"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
             landmarkName = "tableView(_:estimatedHeightForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -800,22 +740,6 @@
             startingLineNumber = "41"
             endingLineNumber = "41"
             landmarkName = "isFavorite(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "8136FDBF-785F-481E-ADB4-F13C66FC77FB"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "TestVRGSoft/DeteilController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
-            landmarkName = "prepare(for:sender:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1056,6 +980,198 @@
             startingLineNumber = "47"
             endingLineNumber = "47"
             landmarkName = "updateFavorites(handler:m:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A86D1A9-D476-4FEE-B3D5-A78476F37A41"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestVRGSoft/DeteilController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "addFavoriteAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2479BD32-D3BF-4C05-93F3-644580E7CA70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestVRGSoft/CoreData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "isContain(m:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56463B99-4FCE-4184-9427-2E4BBDB50625"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestVRGSoft/CoreData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "delete(handler:m:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B6007EE-1375-429D-A5A7-4FB69A2C07A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestVRGSoft/Networking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "endPoint"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B58753A-9D5F-4979-881F-4AB1A8459637"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestVRGSoft/Networking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "endPoint"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9856F9C-A634-44C0-9B25-ECD523FAA6F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestVRGSoft/Networking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "APIClientProtocol"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBE41DC0-17C5-4299-A40B-EE5336C29BA8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestVRGSoft/Networking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "APIClien"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BA18878-A960-47A3-A3DC-945D27335690"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestVRGSoft/FavoritController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "FavoritesData"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6BA18878-A960-47A3-A3DC-945D27335690 - 3eb7c83082a54933"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestVRGSoft.FavoritesData.deinit"
+                  moduleName = "TestVRGSoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/FavoritController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "6BA18878-A960-47A3-A3DC-945D27335690 - 1384664889ed74f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestVRGSoft.FavoritesData.__deallocating_deinit"
+                  moduleName = "TestVRGSoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vahebazikan/Desktop/Swift/learProjeck2.0/TestVRGSoft/TestVRGSoft/FavoritController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C084858E-A22B-47BC-9153-BDEE18DF4285"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestVRGSoft/FavoritController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88C642DB-7B8E-487F-BD0F-D735FFE4CADD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestVRGSoft/DeteilController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "prepare(for:sender:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

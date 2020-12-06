@@ -18,10 +18,11 @@ enum RequestType: Int {
 
 class ViewController: UIViewController {
     
-    //MARK:-
+    //MARK:- Variable
     var pageNumber = 1
     var searchText = ""
-//    var networking : NetworkingProtocol = Networking()
+    private var apiClient = APIClien<ResponseModel>()
+
     
     //MARK:- Outlet
     @IBOutlet weak var tableView: UITableView!
@@ -31,7 +32,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var favorit: UIBarButtonItem!
     @IBOutlet weak var tabBar: UITabBar!
     
-    private var apiClient = APIClien<ResponseModel>()
+    
     
     var model: [ArticleResponce] = [] {
         didSet{
